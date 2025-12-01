@@ -25,6 +25,14 @@ SNS依存防止のために、短時間で消費される中毒性コンテン�
 ### TikTok
 - ✅ サイト全体をブロック（デフォルトON）
 
+
+## 📸 プレビュー / Preview
+
+<p align="center">
+  <img src="https://github.com/SKYMY-Workshop/Deep_Focus_Shield_-SK-/blob/main/popup-preview_v1.0.0.png?raw=true" width="480" alt="Deep Focus Shield UI Preview">
+</p>
+
+
 ## 🔽 Install / ダウンロード
 
 👉 最新版はこちら：
