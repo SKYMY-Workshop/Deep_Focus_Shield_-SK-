@@ -64,8 +64,7 @@ https://github.com/SKYMY-Workshop/Deep_Focus_Shield_-SK-/releases
 不具合報告・機能提案はこちら：
 https://github.com/SKYMY-Workshop/Deep_Focus_Shield_-SK-/issues
 
-
-```
+---
 
 ## 更新履歴
 - v1.0.0-beta 初回プレリリース
@@ -75,7 +74,7 @@ https://github.com/SKYMY-Workshop/Deep_Focus_Shield_-SK-/issues
 MIT License. 詳細は [LICENSE](./LICENSE) を参照してください。
 
 本拡張は完全オープンソースです。
-コードはすべて公開され、いつでも検証可能です
+コードはすべて公開され、いつでも検証可能です。
 
 ---
 
