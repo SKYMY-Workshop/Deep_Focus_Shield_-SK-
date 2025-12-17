@@ -64,27 +64,12 @@ https://github.com/SKYMY-Workshop/Deep_Focus_Shield_-SK-/releases
 不具合報告・機能提案はこちら：
 https://github.com/SKYMY-Workshop/Deep_Focus_Shield_-SK-/issues
 
-## ファイル構成
 
-```
-deep-focus-shield/
-├── manifest.json
-├── popup.html
-├── popup.css
-├── popup.js
-├── background.js
-├── youtube-content.js
-├── youtube-style.css
-├── twitter-content.js
-├── twitter-style.css
-├── icon16.png
-├── icon48.png
-└── icon128.png
 ```
 
 ## 更新履歴
 - v1.0.0-beta 初回プレリリース
-
+- v1.0.3 再生終了画面の関連動画を非表示にする機能を追加
 ## 📜 License
 
 MIT License. 詳細は [LICENSE](./LICENSE) を参照してください。
